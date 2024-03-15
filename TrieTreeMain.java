@@ -2,8 +2,6 @@ package DataStructure;
 
 import java.io.*;
 import java.util.Scanner;
-//Pouria Hosseini Dokht 400149019
-//Amir mahdi jafari 400149012
 
 class TrieTree{
     public static nodee root;
